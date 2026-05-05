@@ -1,2 +1,2 @@
 # code301
-<ToC><link href="ES6Introductions.md">
+<a href="ES6Introductions.md">ES6-Introduction</a>

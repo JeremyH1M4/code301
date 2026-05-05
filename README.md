@@ -1,23 +1,12 @@
-<h1 text-align:center;> code301<h1>
+<h1 class="B1"> code301<h1>
 <a href="ES6Introductions.md">ES6-Introduction</a>
 
+<style>
+    .B1 {
+    display:flex;
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<styles> 
-h1 {
-
-}
-</styles>
+    h1 {
+        text-align: center;
+    }
+</style>
